@@ -7,10 +7,13 @@ output:
     theme: journal
 ---
 
-# This is YuSi's awesome website
+# This is Yu Si's awesome website
 This is my favorite picture and the profile photo of my social contact.
 
 ![](https://imgs.wantubizhi.com/upload/i_1/T1huMFdJZ3Y2V3VzVloxUEtCaExYZz09/3564556719x1446260126_26_0.jpg)
+
+# A little bit about me
+My name is Yu Si and I am a graduate student at Columbia University, majoring in biostatistics. I will graduate in May 2022 and I plan to find a related job in New York after graduation. 
 
 # The academic and professional experience
 [About me](about.html)
