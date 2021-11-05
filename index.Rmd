@@ -4,10 +4,13 @@ output:
   html_document:
     toc: true
     toc_float: true
-    theme: cerulean
+    theme: journal
 ---
 
-# This is Jeff's awesome website
+# This is YuSi's awesome website
+This is my favorite picture and the profile photo of my social contact.
 
 ![](https://imgs.wantubizhi.com/upload/i_1/T1huMFdJZ3Y2V3VzVloxUEtCaExYZz09/3564556719x1446260126_26_0.jpg)
 
+# The academic and professional experience
+[About me](about.html)

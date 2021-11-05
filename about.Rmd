@@ -1,0 +1,14 @@
+---
+title: "About me"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: journal
+---
+
+# This page has information about me. 
+
+Here is my resume, hope I can find a great job.
+![](ys_resume.png)
+
